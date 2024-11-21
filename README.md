@@ -1,1 +1,6 @@
-# AllegroUMK11.21
+# Allegro UMK - Lista Zadań
+
+Lista zadań w ramach projektu Allegro UMK.
+
+## 📄 Zadania
+
