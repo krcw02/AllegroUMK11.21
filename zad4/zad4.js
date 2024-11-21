@@ -1,5 +1,3 @@
 function sum(arr) {
-  return arr.reduce((sum, e) => {
-    return (sum += e);
-  }, 0);
+  return arr.reduce((sum, e) => (sum += e), 0);
 }
