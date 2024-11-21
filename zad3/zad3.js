@@ -15,3 +15,5 @@ function range(a, b) {
 
 console.log(range(2, 6));
 console.log(range(6, 2));
+
+
